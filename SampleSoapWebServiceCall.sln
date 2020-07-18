@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSoapWebServiceCall", "SampleSoapWebServiceCall\SampleSoapWebServiceCall.csproj", "{C3C31823-01C2-4D6D-B4B1-6772D0C6D145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleService", "SampleService\SampleService.csproj", "{C26398F0-5CB0-4D80-81C7-DBD0577F1589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3C31823-01C2-4D6D-B4B1-6772D0C6D145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C31823-01C2-4D6D-B4B1-6772D0C6D145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C31823-01C2-4D6D-B4B1-6772D0C6D145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C31823-01C2-4D6D-B4B1-6772D0C6D145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26398F0-5CB0-4D80-81C7-DBD0577F1589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26398F0-5CB0-4D80-81C7-DBD0577F1589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26398F0-5CB0-4D80-81C7-DBD0577F1589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26398F0-5CB0-4D80-81C7-DBD0577F1589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCEE8580-0A27-44A5-8992-706AE6809406}
+	EndGlobalSection
+EndGlobal
